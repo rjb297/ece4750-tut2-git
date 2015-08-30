@@ -6,3 +6,4 @@ grapes
 pear
 banana
 peach
+lemon

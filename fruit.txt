@@ -10,3 +10,4 @@ lemon
 plum
 date
 kiwi
+kiwi
